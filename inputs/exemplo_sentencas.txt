@@ -1,1 +1,1 @@
-
+Este é um arquivo de exemplo com algumas sentenças para testar o chatbot.
