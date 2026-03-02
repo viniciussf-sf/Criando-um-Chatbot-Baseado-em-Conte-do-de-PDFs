@@ -1,0 +1,9 @@
+pandas
+numpy
+PyPDF2
+pdfplumber
+faiss-cpu
+openai
+tqdm
+streamlit
+scikit-learn
